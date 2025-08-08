@@ -138,3 +138,4 @@ st.subheader("Dados Detalhados")
 
 st.dataframe(df_filtrado)
 
+
